@@ -1,0 +1,14 @@
+.item {
+  display: inline-block;
+  max-width: 200px;
+  min-width: 200px;
+  vertical-align: top;
+  &__thumbnail {
+    margin: 0 auto;
+    width: 100px;
+    height: 150px;
+  }
+  &__name {
+    text-align: center;
+  }
+}

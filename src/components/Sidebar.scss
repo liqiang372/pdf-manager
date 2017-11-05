@@ -1,0 +1,8 @@
+.sidebar {
+  width: 250px;
+  min-height: 100vh;
+  background-color: white;
+}
+.sidebar.active {
+  margin-left: -250px;
+}
